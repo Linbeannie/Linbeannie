@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Madeleine Macaulay
 
-I'm a backend-focused software engineer with ~3 years of professional experience building scalable systems, data pipelines, and microservices using Java, Kotlin, and AWS.
+I'm a backend-focused software engineer with 3 years of professional experience building scalable systems, data pipelines, and microservices using Java, Kotlin, and AWS.
 I’ve worked on event-driven architectures using Kafka and contributed to secure, production-grade services deployed via EKS and Docker.
 
 Most of my code lives in private repositories due to work and academic constraints, but I’m always looking to grow, learn new tools, and share what I can.
