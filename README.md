@@ -12,7 +12,7 @@ Most of my code lives in private repositories due to work and academic constrain
 
 #### 📂 Notable Projects:
 - **Search Engine** – A small-scale Go-based search engine with a custom crawler and PostgreSQL indexer
-- **Wishlist App** – A Heroku-deployed Python/JavaScript web app built as a team project
+- **Evirn-Sci-Survey** – A data-driven survey app showcasing backend integration and UI features.
 - **CalSPEED Redesign** – Kotlin + Jetpack Compose UI for a mobile app modernized as part of my capstone
 
 🧠 Always learning, always improving.
